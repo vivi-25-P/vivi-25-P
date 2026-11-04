@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yaneth Viviana Pechene Cuchumbe
+#  Viviana Pechene 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Ingeniera+de+Sistemas;Data+Analyst+%7C+Marketing+Analytics;Desarrollo+Web+%26+Sistemas+de+Informaci%C3%B3n;Data+Warehousing+%26+Machine+Learning" alt="Typing SVG" />
